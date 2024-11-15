@@ -1,6 +1,6 @@
 # disaster_relief
 
-A new Flutter project.
+This is a disaster relief project made by flutter.
 
 ## Getting Started
 
